@@ -3,7 +3,7 @@
 
 ![badges](https://img.shields.io/badge/trend-landing%20page-blue)
 
-## [Live]()
+## [Live Link](https://trend-landing-page.netlify.app/)
 
 ### project name: Trend Landing Page with pure html and css
 ## Hy, there!!
